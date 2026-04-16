@@ -1,0 +1,26 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.cache
+
+# PHP / Composer
+/vendor/
+composer.phar
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+config/db_config.php
+config/db_config.local.php
+
+# Runtime/session/upload artifacts (if used)
+/uploads/
+/storage/
+/cache/

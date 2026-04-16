@@ -1,0 +1,12 @@
+NeoKart - Test Login Credentials
+=================================
+
+ADMIN ACCOUNT:
+Email: admin@gmail.com
+Password: 3513
+
+USER ACCOUNT:
+Email: aarif123@gmail.com
+Password: 123
+
+Note: Passwords are encrypted using password_hash()
