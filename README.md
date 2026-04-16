@@ -10,6 +10,7 @@ NeoKart is a PHP-based e-commerce web application with user authentication, prod
 - Order success flow
 - Admin pages for users, products, and orders
 - Shared navigation and footer components
+- Responsive layout styling with separate page-specific CSS
 
 ## Tech Stack
 

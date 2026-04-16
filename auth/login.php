@@ -17,7 +17,6 @@
         $sql->bind_param("s",$email);       // this sends the email and password inserted into the sql query 
         $sql->execute();
         $result = $sql->get_result();
-        echo var_dump($result);
 
         if ($result -> num_rows === 1){
             $record = $result->fetch_assoc(); // this fetches the record from the database
@@ -35,6 +34,7 @@
                 }
                 else{
                 header("Location: ../index.php"); // this redirects the user to the index page after successful login
+                exit();
                 }   
             }             
 
