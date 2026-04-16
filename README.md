@@ -66,6 +66,12 @@ Before deploying:
 - Ensure file/folder permissions are correct.
 - Disable debug/error output in production.
 
+## Recent Updates
+
+- Polished authentication redirect flow to stop script execution immediately after redirect headers.
+- Removed debug output from the login handler for cleaner production behavior.
+- Updated project documentation to reflect these quality improvements.
+
 ## Author
 
 Aarif Shrestha
