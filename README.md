@@ -59,12 +59,6 @@ Ignored examples:
 - `.env` files
 - logs and temporary files
 
-## Deployment Notes
-
-Before deploying:
-- Set production database credentials on the server.
-- Ensure file/folder permissions are correct.
-- Disable debug/error output in production.
 
 ## Recent Updates
 
