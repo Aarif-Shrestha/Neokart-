@@ -1,6 +1,6 @@
 # NeoKart
 
-NeoKart is a PHP-based e-commerce web application with user authentication, product browsing, cart flow, checkout pages, and a basic admin area.
+NeoKart is a PHP-based e-commerce web application with user authentication, product browsing, cart flow, checkout pages, and a basic admin area. 
 
 ## Features
 
@@ -38,7 +38,7 @@ NeoKart is a PHP-based e-commerce web application with user authentication, prod
 
 ```bash
 git clone https://github.com/Aarif-Shrestha/Neokart-.git
-cd Neokart-
+cd Neokart
 ```
 
 2. Configure your web server (XAMPP/WAMP/LAMP) to serve the project folder.
